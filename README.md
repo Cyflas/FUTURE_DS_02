@@ -1,4 +1,4 @@
-## 📝 Project Overview
+## Project Overview
 This repository contains Task 2 of Future Interns' Data Science & Analytics Internship.
 * **Task 2:** A B2B SaaS customer retention analysis identifying key churn drivers and operational bottlenecks.
 
@@ -32,3 +32,8 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
   * `ravenstack_subscription.csv` (The subscriptions)
   * `ravenstack_support_tickets.csv` (The support tickets)
   * `Ravenstack_Retention_Dashboard.pbix` (Power BI File)
+
+## How to View the Dashboards
+To view the interactive Power BI dashboards:
+1. Download the `.pbix` files from the respective folders.
+2. Open them using Power BI Desktop.
