@@ -29,6 +29,6 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
   * `ravenstack_accounts.csv` (List of Accounts)
   * `ravenstack_churn_events.csv` (Churn Events)
   * `ravenstack_feature_usage.csv` (The features used)
-  * * `ravenstack_subscription.csv` (The subscriptions)
+  * `ravenstack_subscription.csv` (The subscriptions)
   * `ravenstack_support_tickets.csv` (The support tickets)
   * `Ravenstack_Retention_Dashboard.pbix` (Power BI File)
