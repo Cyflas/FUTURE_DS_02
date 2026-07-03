@@ -24,8 +24,8 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
 
 ## Repository Structure
 * `FUTURE_DS_02`
-  * `ravenstack_churn_analysis.ipynb` (Python script used for relational data merging)
-  * `ravenstack_master_clean.csv` (The final cleaned dataset)
+  * `ravenstack_churn_analysis.ipynb` (Python script used for data cleaning and relational data merging)
+  * `ravenstack_master_clean.csv` (The final cleaned dataset exported from Python)
   * `ravenstack_accounts.csv` (List of Accounts)
   * `ravenstack_churn_events.csv` (Churn Events)
   * `ravenstack_feature_usage.csv` (The features used)
@@ -33,7 +33,7 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
   * `ravenstack_support_tickets.csv` (The support tickets)
   * `Ravenstack_Retention_Dashboard.pbix` (Power BI File)
 
-## How to View the Dashboards
+## How to View the Dashboard
 To view the interactive Power BI dashboards:
-1. Download the `.pbix` files from the respective folders.
-2. Open them using Power BI Desktop.
+1. Download the `.pbix` file from the respective folder.
+2. Open it using Power BI Desktop.
