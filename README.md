@@ -35,5 +35,5 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
 
 ## How to View the Dashboard
 To view the interactive Power BI dashboards:
-1. Download the `.pbix` file from the respective folder.
+1. Download the `.pbix` file from this repository.
 2. Open it using Power BI Desktop.
