@@ -34,6 +34,6 @@ Combined 5 raw relational CSV files using Python (`pandas`) to aggregate 25,000+
   * `Ravenstack_Retention_Dashboard.pbix` (Power BI File)
 
 ## How to View the Dashboard
-To view the interactive Power BI dashboards:
+To view the interactive Power BI dashboard:
 1. Download the `.pbix` file from this repository.
 2. Open it using Power BI Desktop.
